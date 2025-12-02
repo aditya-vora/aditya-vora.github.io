@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-hit-has-been-accepted-to-international-conference-on-3d-vision-2026-vancouver-sparkles-smile",
+          title: 'HiT has been accepted to International Conference on 3D Vision, 2026, Vancouver! :sparkles:...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-hit-has-been-accepted-to-international-conference-on-3d-vision-2026-vancouver-sparkles-smile",
+          title: 'HiT has been accepted to International Conference on 3D Vision, 2026, Vancouver! :sparkles:...',
           description: "",
-          section: "News",},{id: "news-atop-has-been-provisionally-accepted-to-acm-trans-of-graphics-2026",
-          title: 'ATOP has been PROVISIONALLY accepted to ACM Trans. of Graphics, 2026.',
+          section: "News",},{id: "news-atop-has-been-provisionally-accepted-to-acm-trans-of-graphics-2026-sparkles-smile",
+          title: 'ATOP has been PROVISIONALLY accepted to ACM Trans. of Graphics, 2026! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
