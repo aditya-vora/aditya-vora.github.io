@@ -7,11 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: aditya underscore vora at sfu dot ca
+    <p>Room 8004</p>
+    <p>Simon Fraser University, TASC1 building,</p>
+    <p>Burnaby, BC V5A 1S6</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computing Science at Simon Fraser University, working with [Prof. Richard Zhang](https://www.cs.sfu.ca/~haoz/). Before that, I received my Master’s degree from the [Indian Institute of Technology](https://iitgn.ac.in/), Gandhinagar, India, where I studied [Electrical Engineering](https://ee.iitgn.ac.in/) with a research focus on Computer Vision and Deep Learning, particularly on visual perception problems such as object segmentation and localization under the supervision of [Prof. Shanmuganathan Raman](https://shanmuga.people.iitgn.ac.in/). Prior to that I did my Undergrad in Electronics Engineerig from Birla Vishwakarma Mahavidylaya which is one of the oldest universities of my state back in India.
+I am a Ph.D. student in Computing Science at Simon Fraser University, working with [Prof. Richard Zhang](https://www.cs.sfu.ca/~haoz/). 
+
+
+Before that, I received my Master’s degree from the [Indian Institute of Technology, Gandhinagar, India](https://iitgn.ac.in/), where I studied [Electrical Engineering](https://ee.iitgn.ac.in/) with a research focus on Computer Vision and Deep Learning, particularly on visual perception problems such as object segmentation and localization under the supervision of [Prof. Shanmuganathan Raman](https://shanmuga.people.iitgn.ac.in/). 
+
+
+Prior to that I did my Undergrad in Electronics Engineerig from Birla Vishwakarma Mahavidylaya which is one of the oldest and prestigious university of my state back in India.
 
 <!-- I am a Ph.D. student in Computing Science at Simon Fraser University, working with [Prof. Ali Mahdavi-Amiri](https://arash-mham.github.io/) and [Prof. Richard Zhang](https://www.cs.sfu.ca/~haoz/) on Computer Graphics research, focusing on Single View 3D Reconstruction, Primitive Fitting, and Generative Modeling.
 
