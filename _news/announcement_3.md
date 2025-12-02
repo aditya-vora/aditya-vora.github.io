@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-11-05 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[HiT](https://aditya-vora.github.io/HiT/) has been accepted to International Conference on 3D Vision, 2026, Vancouver! :sparkles: :smile:

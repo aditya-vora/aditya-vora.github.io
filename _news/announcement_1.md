@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[ATOP](https://aditya-vora.github.io/atop/) has been PROVISIONALLY accepted to ACM Trans. of Graphics, 2026.
+[ATOP](https://aditya-vora.github.io/atop/) has been PROVISIONALLY accepted to ACM Trans. of Graphics, 2026! :sparkles: :smile:
