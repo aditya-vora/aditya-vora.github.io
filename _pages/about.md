@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://gruvi.cs.sfu.ca/'>GrUVi Lab</a>. Simon Fraser University
 
 profile:
   align: right
