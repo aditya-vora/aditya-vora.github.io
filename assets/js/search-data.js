@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-asia-has-been-accepted-to-siggraph-asia-2025-hong-kong-sparkles-smile",
-          title: 'ASIA has been accepted to SIGGRAPH, Asia, 2025, Hong Kong! :sparkles: :smile:',
+            },},{id: "news-started-my-second-internship-at-amazon-agi-boston",
+          title: 'Started my second internship at Amazon, AGI, Boston!',
           description: "",
           section: "News",},{id: "news-hit-has-been-accepted-to-international-conference-on-3d-vision-2026-vancouver-sparkles-smile",
           title: 'HiT has been accepted to International Conference on 3D Vision, 2026, Vancouver! :sparkles:...',
