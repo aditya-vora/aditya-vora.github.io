@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computing Science at Simon Fraser University, working with [Prof. Richard Zhang](https://www.cs.sfu.ca/~haoz/). 
+I am a Ph.D. student in Computing Science at Simon Fraser University, working with [Prof. Hao Zhang](https://www.cs.sfu.ca/~haoz/). 
 
 
 Before that, I received my Master’s degree from the [Indian Institute of Technology, Gandhinagar, India](https://iitgn.ac.in/), where I studied [Electrical Engineering](https://ee.iitgn.ac.in/) with a research focus on Computer Vision and Deep Learning, particularly on visual perception problems such as object segmentation and localization under the supervision of [Prof. Shanmuganathan Raman](https://shanmuga.people.iitgn.ac.in/). 
