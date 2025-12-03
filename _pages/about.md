@@ -12,8 +12,8 @@ profile:
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-Reviewer: true # includes a services section
-Reviewer_content: >
+services: true # includes a services section
+services_content: >
   **Multiple years:** CVPR, ICCV, NeurIPS, ICLR, ICML, SIGGRAPH, AAAI, 3DV, TVCG
 social: true # includes social icons at the bottom of the page
 
