@@ -64,6 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Services -->
+    {% if page.services %}
+      <h2>services</h2>
+      <div class="services">
+        {{ page.services_content }}
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

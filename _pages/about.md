@@ -12,6 +12,9 @@ profile:
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+services: true # includes a services section
+services_content: >
+  **Reviewer:** CVPR 2025, ICLR 2025, NeurIPS 2024
 social: true # includes social icons at the bottom of the page
 
 announcements:
