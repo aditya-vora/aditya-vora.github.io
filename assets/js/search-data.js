@@ -467,6 +467,13 @@ ninja.data = [{
           window.open("mailto:%76%6F%72%61%61%64%69%74%79%61%38%39%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/aditya-vora", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
