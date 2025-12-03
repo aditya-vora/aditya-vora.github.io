@@ -1,34 +1,43 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"mahdavi-amiri":
+  - firstname: ["Ali", "A.", "Arash"]
+    url: https://arash-mham.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"wang":
+  - firstname: ["Kai", "K."]
+    url: https://kwang-ether.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"zhang":
+  - firstname: ["Richard", "Hao","H."]
+    url: https://www.cs.sfu.ca/~haoz/
+  
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"vora":
+  - firstname: ["Aditya", "A."]
+    url: https://aditya-vora.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"ji":
+  - firstname: ["Guangda", "G."]
+    url: https://quantaji.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"chun":
+  - firstname: ["Peter", "P."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"nag":
+  - firstname: ["Sauradip", "S."]
+    url: https://sauradip.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"goli":
+  - firstname: ["Lily", "A."]
+    url: https://lilygoli.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"tagliasacchi":
+  - firstname: ["Andrea", "A."]
+    url: https://theialab.ca/
+
+"gadi":
+  - firstname: ["Akshay", "A."]
+    url: https://agp-ka32.github.io/
+
+"raj":
+  - firstname: ["Sai Raj", "S. R."]
+    url: https://sairajk.github.io/
