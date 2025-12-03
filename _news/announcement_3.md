@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my second internship at Amazon, AGI, Boston! 
+Started my second internship at Amazon AGI, Boston! Where I am working on Unified Multi-Modal LLMs. 
