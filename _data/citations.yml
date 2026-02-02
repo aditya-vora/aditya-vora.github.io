@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-02'
 papers:
   0LO8tDEAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Iterative spectral clustering for unsupervised object localization
     year: '2018'
   0LO8tDEAAAAJ:LkGwnXOMwfcC:
-    citations: 7
+    citations: 8
     title: 'Articulate That Object Part (ATOP): 3D Part Articulation via Text and Motion Personalization'
     year: '2025'
   0LO8tDEAAAAJ:Tyk-4Ss8FVUC:
