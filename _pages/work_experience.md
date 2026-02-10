@@ -42,7 +42,7 @@ nav_order: 2
 		<h3 style="margin: 0;">Senior Data Scientist - <a href="https://www.honeywell.com" target="_blank" rel="noopener">Honeywell</a></h3>
 		<p style="margin: 0.25rem 0 0.75rem 0;"><em>Bengaluru, KA, India · Dec 2018 – Dec 2020</em></p>
 		<ul>
-			<li>I was part of the Honeywell Architecture and Innovation team, where I designed deep learning solutions for <a href="https://buildings.honeywell.com/us/en/home" target="_blank" rel="noopener">Honeywell Home and Building Technologies</a> as well as <a href="https://aerospace.honeywell.com/" target="_blank" rel="noopener">Honeywell Aerospace</a>. My work focused on the design, training, and evaluation of complex machine learning and deep learning pipelines for real-world applications.</li>
+			<li>I was part of the Honeywell Architecture and Innovation team, where I designed deep learning solutions for <a href="https://buildings.honeywell.com/us/en/home" target="_blank" rel="noopener">Honeywell Home and Building Technologies</a> as well as <a href="https://aerospace.honeywell.com/" target="_blank" rel="noopener">Honeywell Aerospace</a>. My work focused on the design, training, and evaluation of deep learning and computer vision pipelines for real-world applications.</li>
 		</ul>
 	</div>
 </div>
