@@ -10,7 +10,7 @@ nav_order: 2
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin: 1.5rem 0;">
 	<a href="https://aws.amazon.com/nova/models/" target="_blank" rel="noopener" style="flex: 0 0 80px; text-align: center;">
-		<img src="/assets/img/logos/amazon.png" alt="Amazon logo" width="80">
+		<img src="/assets/img/logos/amazon.jpg" alt="Amazon logo" width="80">
 	</a>
 	<div style="flex: 1;">
 		<h3 style="margin: 0;">Applied Scientist Intern — <a href="https://aws.amazon.com/nova/models/" target="_blank" rel="noopener">Amazon AGI</a></h3>
