@@ -36,7 +36,7 @@ nav_order: 2
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin: 1.5rem 0;">
 	<a href="https://www.honeywell.com" target="_blank" rel="noopener" style="flex: 0 0 80px; text-align: center;">
-		<img src="/assets/img/logos/honeywell.png" alt="Honeywell logo" width="80">
+		<img src="/assets/img/logos/honeywell.jpg" alt="Honeywell logo" width="80">
 	</a>
 	<div style="flex: 1;">
 		<h3 style="margin: 0;">Senior Data Scientist - <a href="https://www.honeywell.com" target="_blank" rel="noopener">Honeywell</a></h3>
