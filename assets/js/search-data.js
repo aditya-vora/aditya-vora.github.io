@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-work-experience",
-          title: "work experience",
+          title: "Work Experience",
           description: "Professional experience and career history.",
           section: "Navigation",
           handler: () => {
