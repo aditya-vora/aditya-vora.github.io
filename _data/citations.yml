@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-25'
 papers:
   0LO8tDEAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -41,6 +41,10 @@ papers:
     citations: 0
     title: 'Advances in 4D Representation: Geometry, Motion, and Interaction'
     year: '2025'
+  0LO8tDEAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'HiT: Hierarchical Transformers for Unsupervised 3D Shape Abstraction'
+    year: Unknown Year
   0LO8tDEAAAAJ:u5HHmVD_uO8C:
     citations: 2
     title: Flow-free video object segmentation
