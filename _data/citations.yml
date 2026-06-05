@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-06-05'
 papers:
   0LO8tDEAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: 'FCHD: Fast and accurate head detection in crowded scenes'
     year: '2018'
   0LO8tDEAAAAJ:UebtZRa9Y70C:
-    citations: 3
+    citations: 4
     title: 'ASIA: Adaptive 3D Segmentation using Few Image Annotations'
     year: '2025'
   0LO8tDEAAAAJ:YsMSGLbcyi4C:
@@ -44,12 +44,12 @@ papers:
   0LO8tDEAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: 'HiT: Hierarchical Transformers for Unsupervised 3D Shape Abstraction'
-    year: Unknown Year
+    year: '2026'
   0LO8tDEAAAAJ:u5HHmVD_uO8C:
     citations: 2
     title: Flow-free video object segmentation
     year: '2017'
   0LO8tDEAAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 12
     title: 'Divinet: 3d reconstruction from disparate views using neural template regularization'
     year: '2023'
