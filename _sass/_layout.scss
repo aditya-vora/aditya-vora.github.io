@@ -47,18 +47,12 @@ body.sticky-bottom-footer {
 // TODO: redefine publications layout.
 
 /*****************************************************************************
-* About page sections
-*****************************************************************************/
-
-.about-section {
-  border-top: 1px solid var(--global-divider-color);
-  margin-top: 2.5rem;
-  padding-top: 1.25rem;
-}
-
-/*****************************************************************************
 * Experience
 *****************************************************************************/
+
+.experience-section {
+  margin-top: 2.5rem;
+}
 
 .experience-list {
   margin-bottom: 1.5rem;
@@ -78,7 +72,7 @@ body.sticky-bottom-footer {
 
 .experience-logo {
   flex: 0 0 auto;
-  max-width: 14rem;
+  max-width: 10rem;
 
   a {
     display: block;
@@ -86,8 +80,8 @@ body.sticky-bottom-footer {
 
   img {
     width: 100%;
-    max-width: 14rem;
-    max-height: 7rem;
+    max-width: 10rem;
+    max-height: 5rem;
     height: auto;
     object-fit: contain;
     display: block;
