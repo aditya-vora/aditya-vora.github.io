@@ -1,0 +1,41 @@
+<div class="experience-list">
+  {% for job in site.data.experience %}
+    <div class="experience-item">
+      <div class="row">
+        {% if job.logo %}
+          {% assign logo_path = '/assets/img/logos/' | append: job.logo | relative_url | bust_file_cache %}
+          <div class="col col-sm-2 experience-logo">
+            {% if job.company_url %}
+              <a href="{{ job.company_url }}" target="_blank" rel="noopener">
+                <img src="{{ logo_path }}" alt="{{ job.company }} logo">
+              </a>
+            {% else %}
+              <img src="{{ logo_path }}" alt="{{ job.company }} logo">
+            {% endif %}
+          </div>
+        {% endif %}
+        <div class="col col-sm-{% if job.logo %}10{% else %}12{% endif %} experience-details">
+          <div class="experience-role">{{ job.position }} | {{ job.company }}</div>
+          {% if job.team %}
+            <div class="experience-team">{{ job.team }}</div>
+          {% endif %}
+          <div class="experience-location">📍 {{ job.location }}</div>
+          <div class="experience-dates">{{ job.start_date }} - {{ job.end_date | default: 'TBD' }}</div>
+          {% if job.advisors and job.advisors.size > 0 %}
+            <div class="experience-advisors">
+              <span class="experience-label">Advisors:</span>
+              {% for advisor in job.advisors %}
+                {% if advisor.url %}
+                  <a href="{{ advisor.url }}" target="_blank" rel="noopener">{{ advisor.name }}</a>
+                {% else %}
+                  {{ advisor.name }}
+                {% endif %}
+                {%- unless forloop.last -%}, {% endunless %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

@@ -56,28 +56,45 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
+    <!-- Research -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
+      <div class="about-section">
+        <h2>Research</h2>
+        <p class="research-note">
+          Some papers are <span class="research-highlight-legend">highlighted</span>.
+          For complete list of papers, please check my
+          <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}">Google Scholar</a>.
+        </p>
+        {% include selected_papers.liquid %}
+      </div>
+    {% endif %}
+
+    <!-- Experience -->
+    {% if page.experience %}
+      <div class="about-section experience-section">
+        <h2>Work Experience</h2>
+        {% include experience.liquid %}
+      </div>
     {% endif %}
 
     <!-- Services -->
     {% if page.services %}
-      <h2>services</h2>
-      <div class="services">
-        {{ page.services_content }}
+      <div class="about-section services-section">
+        <h2>Services</h2>
+        <div class="services">
+          {{ page.services_content }}
+        </div>
       </div>
     {% endif %}
 
     <!-- Social -->
     {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
+      <div class="about-section social-section">
+        <div class="social">
+          <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+          <div class="contact-note">{{ site.contact_note }}</div>
+        </div>
       </div>
     {% endif %}
 

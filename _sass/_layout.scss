@@ -47,6 +47,74 @@ body.sticky-bottom-footer {
 // TODO: redefine publications layout.
 
 /*****************************************************************************
+* About page sections
+*****************************************************************************/
+
+.about-section {
+  border-top: 1px solid var(--global-divider-color);
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+}
+
+/*****************************************************************************
+* Experience
+*****************************************************************************/
+
+.experience-list {
+  margin-bottom: 1.5rem;
+}
+
+.experience-item {
+  margin-bottom: 1.25rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  .row {
+    align-items: flex-start;
+  }
+}
+
+.experience-logo {
+  flex: 0 0 auto;
+  max-width: 14rem;
+
+  a {
+    display: block;
+  }
+
+  img {
+    width: 100%;
+    max-width: 14rem;
+    max-height: 7rem;
+    height: auto;
+    object-fit: contain;
+    display: block;
+  }
+}
+
+.experience-details {
+  flex: 1;
+  min-width: 0;
+}
+
+.experience-role {
+  font-weight: 500;
+}
+
+.experience-team,
+.experience-advisors,
+.experience-location,
+.experience-dates {
+  margin-top: 0.15rem;
+}
+
+.experience-label {
+  font-weight: 500;
+}
+
+/*****************************************************************************
 * Projects
 *****************************************************************************/
 

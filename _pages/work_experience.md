@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /work-experience/
-title: work experience
+title: Work Experience
 description: Professional experience and career history.
-nav: true
-nav_order: 2
+nav: false
 ---
 
 

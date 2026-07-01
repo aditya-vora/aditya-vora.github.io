@@ -1,0 +1,47 @@
+- position: Applied Scientist Intern
+  company: Amazon AGI
+  team: Nova Foundation Models Team
+  location: Boston, MA
+  start_date: 2025/09
+  end_date: 2026/01
+  logo: amazon.jpg
+  company_url: https://aws.amazon.com/nova/models/
+  advisors:
+  - name: Chengwei Su
+    url: https://www.linkedin.com/in/chengweisu/
+  - name: Xu Ma
+    url: https://ma-xu.github.io/
+
+- position: Applied Scientist Intern
+  company: Amazon Science
+  team: Visual Innovation Technology Team
+  location: Vancouver, BC
+  start_date: 2024/06
+  end_date: 2024/10
+  logo: amazon-science.png
+  company_url: https://www.amazon.science
+  advisors:
+  - name: Hao Zhang
+    url: https://www.cs.sfu.ca/~haoz/
+  - name: Kai Wang
+    url: https://kwang-ether.github.io/
+  - name: Yiming Qian
+    url: https://yi-ming-qian.github.io/
+
+- position: Senior Data Scientist
+  company: Honeywell
+  team: Architecture and Innovation
+  location: Bengaluru, KA
+  start_date: 2018/12
+  end_date: 2020/12
+  logo: honeywell.jpg
+  company_url: https://www.honeywell.com
+
+- position: Software Engineer (Computer Vision)
+  company: Johnson Controls
+  team: Innovation Garage
+  location: Bengaluru, KA
+  start_date: 2017/07
+  end_date: 2018/11
+  logo: johnson-controls.png
+  company_url: https://www.johnsoncontrols.com
