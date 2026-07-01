@@ -867,6 +867,44 @@ $publication-preview-width: 280px;
         line-height: 1.45;
       }
 
+      .periodical {
+        margin-top: 0.35rem;
+        line-height: 1.6;
+
+        .venue-badge {
+          position: relative;
+          display: inline-flex;
+          align-items: center;
+          max-width: 100%;
+          padding: 0.025rem 0.75rem;
+          border: 1px solid rgba(51, 51, 51, 0.06);
+          border-radius: 9999px;
+          background: #f7f7f7;
+          color: var(--global-text-color);
+          font-style: italic;
+          vertical-align: middle;
+          box-sizing: border-box;
+          isolation: isolate;
+          backdrop-filter: blur(6px) saturate(160%);
+          -webkit-backdrop-filter: blur(6px) saturate(160%);
+          box-shadow:
+            inset 1px -1px 1px -1px rgba(255, 255, 255, 0.6),
+            0 2px 6px rgba(15, 23, 42, 0.05);
+
+          em {
+            font-style: inherit;
+          }
+        }
+      }
+
+      html[data-theme="dark"] & .periodical .venue-badge {
+        border-color: rgba(255, 255, 255, 0.12);
+        background: #52525b;
+        box-shadow:
+          inset 1px -1px 1px -1px rgba(255, 255, 255, 0.1),
+          0 2px 6px rgba(0, 0, 0, 0.15);
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

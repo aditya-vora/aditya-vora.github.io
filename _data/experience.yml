@@ -1,7 +1,7 @@
 - position: Applied Scientist Intern
   company: Amazon AGI
   team: Nova Foundation Models Team
-  location: Boston, MA
+  location: Boston, MA, USA
   start_date: 2025/09
   end_date: 2026/01
   logo: amazon.jpg
@@ -15,7 +15,7 @@
 - position: Applied Scientist Intern
   company: Amazon Science
   team: Visual Innovation Technology Team
-  location: Vancouver, BC
+  location: Vancouver, BC, Canada
   start_date: 2024/06
   end_date: 2024/10
   logo: amazon-science.png
@@ -31,7 +31,7 @@
 - position: Senior Data Scientist
   company: Honeywell
   team: Architecture and Innovation
-  location: Bengaluru, KA
+  location: Bengaluru, KA, India
   start_date: 2018/12
   end_date: 2020/12
   logo: honeywell.jpg
@@ -40,7 +40,7 @@
 - position: Software Engineer (Computer Vision)
   company: Johnson Controls
   team: Innovation Garage
-  location: Bengaluru, KA
+  location: Bengaluru, KA, India
   start_date: 2017/07
   end_date: 2018/11
   logo: johnson-controls.png
