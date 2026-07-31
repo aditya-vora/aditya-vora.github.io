@@ -1,34 +1,30 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-31'
 papers:
-  0LO8tDEAAAAJ:0EnyYjriUFMC:
-    citations: 0
-    title: Hierarchical Transformers for Unsupervised 3D Shape Abstraction
-    year: '2026'
   0LO8tDEAAAAJ:2osOgNQ5qMEC:
     citations: 17
     title: Iterative spectral clustering for unsupervised object localization
     year: '2018'
   0LO8tDEAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 13
     title: 'Articulate That Object Part (ATOP): 3D Part Articulation from Text and via Motion Personalization'
-    year: '2025'
-  0LO8tDEAAAAJ:LkGwnXOMwfcC:
-    citations: 7
-    title: 'Articulate That Object Part (ATOP): 3D Part Articulation via Text and Motion Personalization'
-    year: '2025'
-  0LO8tDEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 45
-    title: 'FCHD: Fast and accurate head detection in crowded scenes'
-    year: '2018'
-  0LO8tDEAAAAJ:UebtZRa9Y70C:
-    citations: 6
+    year: '2026'
+  0LO8tDEAAAAJ:KlAtU1dfN6UC:
+    citations: 8
     title: 'ASIA: Adaptive 3D Segmentation using Few Image Annotations'
     year: '2025'
+  0LO8tDEAAAAJ:Tyk-4Ss8FVUC:
+    citations: 48
+    title: 'FCHD: Fast and accurate head detection in crowded scenes'
+    year: '2018'
   0LO8tDEAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Systems and methods for identifying blockages of emergency exists in a building
     year: '2022'
+  0LO8tDEAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: A Classification approach towards Unsupervised Learning of Visual Representations
+    year: '2018'
   0LO8tDEAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: 'DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization-Supplementary Material'
@@ -38,9 +34,9 @@ papers:
     title: Deep appearance consistent human pose transfer
     year: '2022'
   0LO8tDEAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 4
     title: 'Advances in 4D Representation: Geometry, Motion, and Interaction'
-    year: '2025'
+    year: '2026'
   0LO8tDEAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: 'HiT: Hierarchical Transformers for Unsupervised 3D Shape Abstraction'
