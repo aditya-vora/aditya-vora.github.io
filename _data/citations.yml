@@ -1,26 +1,26 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-07'
 papers:
   0LO8tDEAAAAJ:2osOgNQ5qMEC:
     citations: 17
     title: Iterative spectral clustering for unsupervised object localization
     year: '2018'
   0LO8tDEAAAAJ:3fE2CSJIrl8C:
-    citations: 13
+    citations: 14
     title: 'Articulate That Object Part (ATOP): 3D Part Articulation from Text and via Motion Personalization'
     year: '2026'
   0LO8tDEAAAAJ:KlAtU1dfN6UC:
-    citations: 8
+    citations: 9
     title: 'ASIA: Adaptive 3D Segmentation using Few Image Annotations'
     year: '2025'
   0LO8tDEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 48
+    citations: 44
     title: 'FCHD: Fast and accurate head detection in crowded scenes'
     year: '2018'
   0LO8tDEAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Systems and methods for identifying blockages of emergency exists in a building
-    year: '2022'
+    year: '2021'
   0LO8tDEAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: A Classification approach towards Unsupervised Learning of Visual Representations
