@@ -42,3 +42,19 @@
   - name: Yiming Qian
     url: https://yi-ming-qian.github.io/
 
+- position: Senior Data Scientist
+  company: Honeywell
+  location: Bengaluru, KA, India
+  start_date: 2018/12
+  end_date: 2020/12
+  logo: honeywell.jpg
+  company_url: https://www.honeywell.com
+
+- position: Software Engineer (Computer Vision)
+  company: Johnson Controls
+  location: Bengaluru, KA, India
+  start_date: 2017/07
+  end_date: 2018/11
+  logo: johnson-controls.png
+  company_url: https://www.johnsoncontrols.com
+
