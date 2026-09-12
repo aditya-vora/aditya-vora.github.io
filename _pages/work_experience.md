@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /work-experience/
-title: Work Experience
+title: Internships
 description: Professional experience and career history.
 nav: false
 ---
