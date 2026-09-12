@@ -7,10 +7,10 @@
   logo: autodesk.png
   company_url: https://www.research.autodesk.com
   advisors:
-  - name: Yilin Liu
-    url: https://yilinliu77.github.io
   - name: Pradeep Kumar Jayaraman
     url: https://www.research.autodesk.com/people/pradeep-kumar-jayaraman/
+  - name: Yilin Liu
+    url: https://yilinliu77.github.io
 
 - position: Applied Scientist Intern
   company: Amazon AGI
