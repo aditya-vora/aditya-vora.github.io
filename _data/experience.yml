@@ -1,3 +1,17 @@
+- position: AI Research Scientist Intern
+  company: Autodesk Research
+  team: Autodesk AI Lab
+  location: Vancouver, BC, Canada
+  start_date: 2026/09
+  end_date: 2026/12
+  logo: autodesk.png
+  company_url: https://www.research.autodesk.com
+  advisors:
+  - name: Yilin Liu
+    url: https://yilinliu77.github.io
+  - name: Pradeep Kumar Jayaraman
+    url: https://www.research.autodesk.com/people/pradeep-kumar-jayaraman/
+
 - position: Applied Scientist Intern
   company: Amazon AGI
   team: Nova Foundation Models Team
@@ -28,20 +42,3 @@
   - name: Yiming Qian
     url: https://yi-ming-qian.github.io/
 
-- position: Senior Data Scientist
-  company: Honeywell
-  team: Architecture and Innovation
-  location: Bengaluru, KA, India
-  start_date: 2018/12
-  end_date: 2020/12
-  logo: honeywell.jpg
-  company_url: https://www.honeywell.com
-
-- position: Software Engineer (Computer Vision)
-  company: Johnson Controls
-  team: Innovation Garage
-  location: Bengaluru, KA, India
-  start_date: 2017/07
-  end_date: 2018/11
-  logo: johnson-controls.png
-  company_url: https://www.johnsoncontrols.com
